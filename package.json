@@ -1,0 +1,23 @@
+{
+  "name": "EuphoricaEssences",
+  "version": "0.0.0",
+  "description": "Website for Christina Euphorica",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesdawson/EuphoricaEssences"
+  },
+  "author": "Wes Dawson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesdawson/EuphoricaEssences/issues"
+  },
+  "homepage": "https://github.com/wesdawson/EuphoricaEssences",
+  "dependencies": {
+    "express": "^4.6.0"
+  }
+}
