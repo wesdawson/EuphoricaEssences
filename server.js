@@ -13,9 +13,6 @@ app.get('/article', function(req, res) {
     res.sendfile('./views/article.html');
 });
 
-app.get('/', function(req, res){
-  res.send("Titty Winks");
-});
 
 app.listen(3000);
 console.log("You are listening on localhost:3000");
