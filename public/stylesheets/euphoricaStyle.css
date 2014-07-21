@@ -1,11 +1,8 @@
-#con .well {
-    height:400px;
+#con.well {
+    height:560px;
 }
 
 #nav.affix {
     position: fixed;
     top: 0;
     width: 100%
-}
-
-
