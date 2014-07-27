@@ -17,5 +17,6 @@ Next Task
 Use Gimp to take make logo longer/narrower
 
 Play with carosel- container vs container-fluid, add content
+Carosel markup: http://webdesign.tutsplus.com/articles/twitter-bootstrap-101-the-carousel--webdesign-7442
 
 
