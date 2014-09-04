@@ -19,7 +19,7 @@ body {
 }
 
 
-#flower {
+#flower-bg {
     background: url(../images/yellow-purple-flower-large.jpg) 50% 0 fixed;
     height: auto; 
     margin: 0 auto;
@@ -28,7 +28,7 @@ body {
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 750px 0px 20px 0px;
 }
-#skin {
+#skin-bg {
     background: url(../images/yellow-purple-pansies.jpg) 50% 0 fixed;
     height: auto; 
     margin: 0 auto;
@@ -37,7 +37,7 @@ body {
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 75px 0px 20px 0px;
 }
-#aroma {
+#aroma-bg {
     background: url(../images/sunset-flower.jpg) 50% 0 fixed;
     height: auto;
     margin: 0 auto;
@@ -47,7 +47,7 @@ body {
     padding: 75px 0px 20px 0px;
 }
 
-#jewelry {
+#jewelry-bg {
 	background: url(../images/butterfly.jpg) 50% 0 fixed;
     height: auto;
     margin: 0 auto;
@@ -57,7 +57,7 @@ body {
     padding: 75px 0px 20px 0px;
 }
 
-#about {
+#about-bg {
 	background: url(../images/about-section-2.jpg) 50% 0 fixed;
     height: auto;
     margin: 0 auto;
@@ -67,6 +67,15 @@ body {
     padding: 75px 0px 20px 0px;
 }
 
+#contact-bg {
+	background: url(../images/contact-section.jpg) 50% 0 fixed;
+    height: auto;
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 75px 0px 20px 0px;
+}
 
 
 
