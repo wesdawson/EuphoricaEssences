@@ -18,6 +18,10 @@ body {
 
 }
 
+.dropdown:hover .dropdown-menu {
+    display: block;
+ }
+
 
 #flower-bg {
     background: url(../images/yellow-purple-flower-large.jpg) 50% 0 fixed;
@@ -48,7 +52,7 @@ body {
 }
 
 #jewelry-bg {
-	background: url(../images/butterfly.jpg) 50% 0 fixed;
+	background: url(../images/flowers-focus.jpg) 50% 0 fixed;
     height: auto;
     margin: 0 auto;
     width: 100%;
